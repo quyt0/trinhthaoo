@@ -1,0 +1,12 @@
+@media (min-width: 1280px) {
+	#bodyMain {
+		display: block;
+	}
+}
+
+
+@media (max-width: 740px) {
+	#bodyMain {
+		display: flex;
+	}
+}
